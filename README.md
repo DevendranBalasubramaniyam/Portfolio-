@@ -28,7 +28,7 @@ Welcome to my personal portfolio project! This repository showcases my skills, p
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/DevendranBalasubramaniyam/portfolio.git
 
 2. Install dependencies:
 
